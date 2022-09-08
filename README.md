@@ -2,9 +2,6 @@
 
 This repository hosts Cygisk related files
 
-[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?longCache=true&style=flat-square)](https://t.me/magiskcustom)
-[![Discussion](https://img.shields.io/badge/Discussion-Telegram-red.svg?longCache=true&style=flat-square)](https://t.me/custommagisk)
-
 ## Cygisk
 
 Custom Magisk by [TheHitMan7](https://github.com/TheHitMan7). Always synced with official changes including Zygisk, Magisk Hide, Denylist, Hide the Magisk app, Magisk-Module-Repository features.
