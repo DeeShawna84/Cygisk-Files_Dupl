@@ -15,8 +15,6 @@ If you opt-in for Zygisk then toggle MagiskHide.
 
 **MagiskHide can be used w/ or w/o Zygisk.**
 
-<a href="https://raw.githubusercontent.com/Cygisk/Cygisk-Files/master/MagiskHide.zip"><img src="https://img.shields.io/badge/-Download-2CA5E0?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 ## Social Links
 
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?longCache=true&style=flat-square)](https://t.me/customagisk)
